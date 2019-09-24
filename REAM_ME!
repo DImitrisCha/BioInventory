@@ -1,0 +1,20 @@
+
+
+What does the project do:
+  
+  This project is a program that allows businesses to better organize their inventory. This app allows for easier access to
+every object in the inventory, filter by date/name and any other useful feature, easy scan process (by redirecting focus on 
+screen for non-stop scanning around the storage room). Also, it reports missing items, allows comment sections, insertions,
+deletions and and login-in system as well as a "how to use" guide.
+
+Who is the project for?
+  
+  The project was made for the Davidson College Biology Department but it is applicable to many businesses taht struggle 
+organizing their inventories (maybe because of many storage units, large amount of objects, not many employees etc)
+
+How does it work?
+  
+  The program works works by using JavaScript, HTML and CSS for the front-end and SQL for database support. The whole thing is 
+currently hosted in a local environment but I am working into getting it uploaded to a domain.
+  
+  
